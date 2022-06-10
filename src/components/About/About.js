@@ -48,7 +48,7 @@ const About = () => {
 
                     </div>
 
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste unde asperiores fugit vero eveniet exercitationem earum quis, expedita excepturi sint iure ut. Provident deserunt ab, voluptatem quod qui porro minima.</p>
+                    <p>I started my journey as a web developer with Programming Hero. But it slowly made me addicted to being a programmer. So now the only goal is to build a good person and a good programmer.</p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
